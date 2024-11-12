@@ -1,1 +1,2 @@
-.
+
+https://enjoyyourjourney.netlify.app/
